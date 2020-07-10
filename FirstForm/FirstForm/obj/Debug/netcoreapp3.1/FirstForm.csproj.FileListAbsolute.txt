@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\FirstForm\FirstForm\bin\Debug\netcoreapp3.1\FirstForm.exe
+C:\Users\admin\source\repos\FirstForm\FirstForm\bin\Debug\netcoreapp3.1\FirstForm.deps.json
+C:\Users\admin\source\repos\FirstForm\FirstForm\bin\Debug\netcoreapp3.1\FirstForm.runtimeconfig.json
+C:\Users\admin\source\repos\FirstForm\FirstForm\bin\Debug\netcoreapp3.1\FirstForm.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FirstForm\FirstForm\bin\Debug\netcoreapp3.1\FirstForm.dll
+C:\Users\admin\source\repos\FirstForm\FirstForm\bin\Debug\netcoreapp3.1\FirstForm.pdb
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.AssemblyInfo.cs
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.dll
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.pdb
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.genruntimeconfig.cache
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.Form1.resources
+C:\Users\admin\source\repos\FirstForm\FirstForm\obj\Debug\netcoreapp3.1\FirstForm.csproj.GenerateResource.cache

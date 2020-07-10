@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SecondForm(Method)/1.0.0": {
+        "runtime": {
+          "SecondForm(Method).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecondForm(Method)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\bin\Debug\netcoreapp3.1\Inheritance_Polymorphism.exe
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\bin\Debug\netcoreapp3.1\Inheritance_Polymorphism.deps.json
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\bin\Debug\netcoreapp3.1\Inheritance_Polymorphism.runtimeconfig.json
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\bin\Debug\netcoreapp3.1\Inheritance_Polymorphism.runtimeconfig.dev.json
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\bin\Debug\netcoreapp3.1\Inheritance_Polymorphism.dll
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\bin\Debug\netcoreapp3.1\Inheritance_Polymorphism.pdb
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\obj\Debug\netcoreapp3.1\Inheritance_Polymorphism.csprojAssemblyReference.cache
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\obj\Debug\netcoreapp3.1\Inheritance_Polymorphism.AssemblyInfoInputs.cache
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\obj\Debug\netcoreapp3.1\Inheritance_Polymorphism.AssemblyInfo.cs
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\obj\Debug\netcoreapp3.1\Inheritance_Polymorphism.csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\obj\Debug\netcoreapp3.1\Inheritance_Polymorphism.dll
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\obj\Debug\netcoreapp3.1\Inheritance_Polymorphism.pdb
+D:\C# Programming Trainnig\Inheritance_Polymorphism\Inheritance_Polymorphism\obj\Debug\netcoreapp3.1\Inheritance_Polymorphism.genruntimeconfig.cache

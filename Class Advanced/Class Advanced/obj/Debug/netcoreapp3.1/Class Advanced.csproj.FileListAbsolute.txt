@@ -1,0 +1,13 @@
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\bin\Debug\netcoreapp3.1\Class Advanced.exe
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\bin\Debug\netcoreapp3.1\Class Advanced.deps.json
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\bin\Debug\netcoreapp3.1\Class Advanced.runtimeconfig.json
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\bin\Debug\netcoreapp3.1\Class Advanced.runtimeconfig.dev.json
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\bin\Debug\netcoreapp3.1\Class Advanced.dll
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\bin\Debug\netcoreapp3.1\Class Advanced.pdb
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\obj\Debug\netcoreapp3.1\Class Advanced.csprojAssemblyReference.cache
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\obj\Debug\netcoreapp3.1\Class Advanced.AssemblyInfoInputs.cache
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\obj\Debug\netcoreapp3.1\Class Advanced.AssemblyInfo.cs
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\obj\Debug\netcoreapp3.1\Class Advanced.csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\obj\Debug\netcoreapp3.1\Class Advanced.dll
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\obj\Debug\netcoreapp3.1\Class Advanced.pdb
+D:\C# Programming Trainnig\Class Advanced\Class Advanced\obj\Debug\netcoreapp3.1\Class Advanced.genruntimeconfig.cache

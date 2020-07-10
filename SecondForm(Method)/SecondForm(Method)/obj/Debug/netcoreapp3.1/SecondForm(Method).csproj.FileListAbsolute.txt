@@ -1,0 +1,15 @@
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\bin\Debug\netcoreapp3.1\SecondForm(Method).exe
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\bin\Debug\netcoreapp3.1\SecondForm(Method).deps.json
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\bin\Debug\netcoreapp3.1\SecondForm(Method).runtimeconfig.json
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\bin\Debug\netcoreapp3.1\SecondForm(Method).runtimeconfig.dev.json
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\bin\Debug\netcoreapp3.1\SecondForm(Method).dll
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\bin\Debug\netcoreapp3.1\SecondForm(Method).pdb
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).csprojAssemblyReference.cache
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm_Method_.Form1.resources
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).csproj.GenerateResource.cache
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).AssemblyInfoInputs.cache
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).AssemblyInfo.cs
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).dll
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).pdb
+D:\C# Programming Trainnig\SecondForm(Method)\SecondForm(Method)\obj\Debug\netcoreapp3.1\SecondForm(Method).genruntimeconfig.cache

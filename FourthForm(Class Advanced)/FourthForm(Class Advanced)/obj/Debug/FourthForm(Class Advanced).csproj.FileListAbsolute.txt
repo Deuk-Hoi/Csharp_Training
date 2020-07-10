@@ -1,0 +1,10 @@
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\bin\Debug\FourthForm(Class Advanced).exe.config
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\bin\Debug\FourthForm(Class Advanced).exe
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\bin\Debug\FourthForm(Class Advanced).pdb
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\obj\Debug\FourthForm(Class Advanced).csprojAssemblyReference.cache
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\obj\Debug\FourthForm_Class_Advanced_.Form1.resources
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\obj\Debug\FourthForm_Class_Advanced_.Properties.Resources.resources
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\obj\Debug\FourthForm(Class Advanced).csproj.GenerateResource.cache
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\obj\Debug\FourthForm(Class Advanced).csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\obj\Debug\FourthForm(Class Advanced).exe
+D:\C# Programming Trainnig\FourthForm(Class Advanced)\FourthForm(Class Advanced)\obj\Debug\FourthForm(Class Advanced).pdb

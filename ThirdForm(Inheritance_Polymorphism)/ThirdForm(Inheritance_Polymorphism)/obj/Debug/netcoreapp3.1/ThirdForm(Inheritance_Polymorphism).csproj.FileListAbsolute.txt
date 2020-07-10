@@ -1,0 +1,15 @@
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\bin\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).exe
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\bin\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).deps.json
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\bin\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).runtimeconfig.json
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\bin\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).runtimeconfig.dev.json
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\bin\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).dll
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\bin\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).pdb
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).csprojAssemblyReference.cache
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm_Inheritance_Polymorphism_.Form1.resources
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).csproj.GenerateResource.cache
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).AssemblyInfoInputs.cache
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).AssemblyInfo.cs
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).dll
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).pdb
+D:\C# Programming Trainnig\ThirdForm(Inheritance_Polymorphism)\ThirdForm(Inheritance_Polymorphism)\obj\Debug\netcoreapp3.1\ThirdForm(Inheritance_Polymorphism).genruntimeconfig.cache
