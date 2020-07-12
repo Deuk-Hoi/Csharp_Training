@@ -45,8 +45,8 @@ namespace Class_Advanced
         }
         public static void Structure()
         {
-            Structure structure = new Structure();
-            structure.location();
+            /*Structure structure = new Structure();
+            structure.location();*/
             Copy copy = new Copy();
             copy.CopyData();
         }

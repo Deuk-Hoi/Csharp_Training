@@ -1,0 +1,11 @@
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\bin\Debug\SixthForm(Exception Handling).exe.config
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\bin\Debug\SixthForm(Exception Handling).exe
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\bin\Debug\SixthForm(Exception Handling).pdb
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm(Exception Handling).csprojAssemblyReference.cache
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm_Exception_Handling_.Properties.Resources.resources
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm(Exception Handling).csproj.GenerateResource.cache
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm(Exception Handling).csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm(Exception Handling).exe
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm(Exception Handling).pdb
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm_Exception_Handling_.Form1.resources
+D:\C# Programming Trainnig\SixthForm(Exception Handling)\SixthForm(Exception Handling)\obj\Debug\SixthForm_Exception_Handling_.GridView.resources

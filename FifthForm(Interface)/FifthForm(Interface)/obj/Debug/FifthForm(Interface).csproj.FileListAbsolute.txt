@@ -1,0 +1,9 @@
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\bin\Debug\FifthForm(Interface).exe.config
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\bin\Debug\FifthForm(Interface).exe
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\bin\Debug\FifthForm(Interface).pdb
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\obj\Debug\FifthForm(Interface).csprojAssemblyReference.cache
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\obj\Debug\FifthForm_Interface_.Properties.Resources.resources
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\obj\Debug\FifthForm(Interface).csproj.GenerateResource.cache
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\obj\Debug\FifthForm(Interface).csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\obj\Debug\FifthForm(Interface).exe
+D:\C# Programming Trainnig\FifthForm(Interface)\FifthForm(Interface)\obj\Debug\FifthForm(Interface).pdb

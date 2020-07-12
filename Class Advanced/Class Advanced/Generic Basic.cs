@@ -26,3 +26,14 @@ namespace Class_Advanced
         }
     }
 }
+class Two_Generic<T, U>
+{
+    public T Value;
+    public U User;
+
+    public Two_Generic(T value, U user)
+    {
+        this.Value = value;
+        this.User = user;
+    }
+}
