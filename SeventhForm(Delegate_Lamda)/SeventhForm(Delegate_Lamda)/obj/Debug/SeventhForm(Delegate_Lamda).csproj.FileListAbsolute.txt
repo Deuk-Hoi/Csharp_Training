@@ -1,0 +1,10 @@
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\bin\Debug\SeventhForm(Delegate_Lamda).exe.config
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\bin\Debug\SeventhForm(Delegate_Lamda).exe
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\bin\Debug\SeventhForm(Delegate_Lamda).pdb
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\obj\Debug\SeventhForm(Delegate_Lamda).csprojAssemblyReference.cache
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\obj\Debug\SeventhForm_Delegate_Lamda_.Form1.resources
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\obj\Debug\SeventhForm_Delegate_Lamda_.Properties.Resources.resources
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\obj\Debug\SeventhForm(Delegate_Lamda).csproj.GenerateResource.cache
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\obj\Debug\SeventhForm(Delegate_Lamda).csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\obj\Debug\SeventhForm(Delegate_Lamda).exe
+D:\C# Programming Trainnig\SeventhForm(Delegate_Lamda)\SeventhForm(Delegate_Lamda)\obj\Debug\SeventhForm(Delegate_Lamda).pdb

@@ -1,0 +1,13 @@
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\bin\Debug\netcoreapp3.1\Delegate_Lamda.exe
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\bin\Debug\netcoreapp3.1\Delegate_Lamda.deps.json
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\bin\Debug\netcoreapp3.1\Delegate_Lamda.runtimeconfig.json
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\bin\Debug\netcoreapp3.1\Delegate_Lamda.runtimeconfig.dev.json
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\bin\Debug\netcoreapp3.1\Delegate_Lamda.dll
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\bin\Debug\netcoreapp3.1\Delegate_Lamda.pdb
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\obj\Debug\netcoreapp3.1\Delegate_Lamda.csprojAssemblyReference.cache
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\obj\Debug\netcoreapp3.1\Delegate_Lamda.AssemblyInfoInputs.cache
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\obj\Debug\netcoreapp3.1\Delegate_Lamda.AssemblyInfo.cs
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\obj\Debug\netcoreapp3.1\Delegate_Lamda.csproj.CoreCompileInputs.cache
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\obj\Debug\netcoreapp3.1\Delegate_Lamda.dll
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\obj\Debug\netcoreapp3.1\Delegate_Lamda.pdb
+D:\C# Programming Trainnig\Delegate_Lamda\Delegate_Lamda\obj\Debug\netcoreapp3.1\Delegate_Lamda.genruntimeconfig.cache
